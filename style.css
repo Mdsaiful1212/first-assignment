@@ -12,7 +12,7 @@
   padding: 0;
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(166, 232, 153, 0.7),rgba(37, 39, 47, 0.7)),url(/images/donation0.jpg);
+  background-image: linear-gradient(rgba(166, 232, 153, 0.7),rgba(37, 39, 47, 0.7)),url(images/donation0.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
