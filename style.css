@@ -314,6 +314,7 @@
     border: none;
     outline: none;
     background: rgb(215, 208, 208);
+    padding-left: 8px;
 }
 .section-10 button{
     width: 100px;
